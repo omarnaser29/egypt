@@ -1,0 +1,68 @@
+body{
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background:url("papers.jpeg")
+}
+h1{
+    color: rgb(63, 63, 63);
+}
+a{
+    color: slateblue;
+}
+nav ul {
+    background-color:#F2C166;
+    border-style: solid;
+    border-radius: 20px;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    color:black
+}
+nav ul li a{
+    color: black;
+}
+#p2{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+#p3{
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+#p4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+#p5{
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: inline;
+
+}
+#img1{
+    display: inline;
+}
+#c{
+    text-align: center;
+}
+input{
+    display: block;
+
+
+}
+#male{
+    display: inline;
+}
+#female{
+    display: inline;
+}
